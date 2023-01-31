@@ -52,18 +52,28 @@ In this project, we introduce ASGaze, a new gaze tracking system designed using 
         </a>     
 </div>
 
-## Code
+## Publication
 
-Our code and data samples are open source:<a href="https://github.com/Jiani-CAO/ASGaze"> ASGaze</a>. Have a try!
+**Gaze Tracking on Any Surface with Your Phone**
 
+**Jiani Cao**, Chengdong Lin, Yang Liu, Zhenjiang Li
 
+ACM SenSys, 2022
+
+<a href="https://dl.acm.org/doi/10.1145/3560905.3568544">[pdf]</a>  <a href="https://github.com/Jiani-CAO/ASGaze">[code]</a>  <a href="https://www.cs.cityu.edu.hk/~zhenjili/2022-Sensys-ASGaze-Slides.pdf">[slides]</a>
 
 ## Citation
 
 If you find our work useful in your research, please consider citing:
 
 ```
-Coming soon…
+@inproceedings{cao2022gaze,
+title={Gaze Tracking on Any Surface with Your Phone},
+author={Cao, Jiani and Lin, Chengdong and Liu, Yang and Li, Zhenjiang},
+booktitle={Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems},
+pages={320--333},
+year={2022}
+}
 ```
 
 
