@@ -60,7 +60,7 @@ In this project, we introduce ASGaze, a new gaze tracking system designed using 
 
 ACM SenSys, 2022
 
-<a href="https://dl.acm.org/doi/10.1145/3560905.3568544">[pdf]</a>  <a href="https://github.com/Jiani-CAO/ASGaze">[code]</a>  <a href="https://www.cs.cityu.edu.hk/~zhenjili/2022-Sensys-ASGaze-Slides.pdf">[slides]</a>
+<a href="https://dl.acm.org/doi/10.1145/3560905.3568544">[Paper]</a>  <a href="https://github.com/Jiani-CAO/ASGaze">[Code]</a>  <a href="https://jiani-cao.github.io/slides/2022-SenSys-ASGaze-slides.pdf">[Slides]</a>
 
 ## Citation
 
